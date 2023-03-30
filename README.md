@@ -24,7 +24,7 @@
   <img align="center" alt="Mouras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mouras-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mouras-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mouras-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/r-original.svg">
+  <img align="center" alt="Mouras-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/r.svg">
 </div>
 <br> <br>
 <div> 
