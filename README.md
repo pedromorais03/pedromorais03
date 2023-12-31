@@ -2,7 +2,7 @@
 
 - 🎈 Tenho 19 anos.
 - 💼 Atualmente atuo como estagiário em desenvolvimento web.
-- 📜 Curso Ciências da Computação na Universidade São Judas Tadeu, atualmente no 4º Semetre
+- 📜 Curso Ciências da Computação na Universidade São Judas Tadeu, atualmente no 5º Semetre
 
 <picture>
 <source 
