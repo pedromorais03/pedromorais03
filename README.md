@@ -4,15 +4,17 @@
 - 📜 Cursando Análise e Desenvolvimento de Sistemas na SPTech
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=aura"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true" />
+  ![Snake animation](https://github.com/pedromorais03/pedromorais03/blob/output/github-contribution-grid-snake.svg)
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=aura"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorais03&layout=compact)](https://github.com/pedromorais03/github-readme-stats)
 </picture>
 
 <div style="display: inline_block"><br>
@@ -22,7 +24,6 @@
   <img align="center" alt="Mouras-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mouras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mouras-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
 </div>
 <br> <br>
 <div> 
