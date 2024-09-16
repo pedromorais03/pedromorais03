@@ -1,8 +1,7 @@
 ## Olá, seja bem-vindo(a) 😀
 
 - 🎈 Tenho 20 anos.
-- 💼 Atualmente atuo como estagiário em desenvolvimento web.
-- 📜 Curso Ciências da Computação na Universidade São Judas Tadeu, atualmente no 5º Semetre
+- 📜 Cursando Análise e Desenvolvimento de Sistemas na SPTech
 
 <picture>
 <source 
@@ -23,7 +22,6 @@
   <img align="center" alt="Mouras-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mouras-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mouras-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mouras-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
 <br> <br>
