@@ -2,7 +2,7 @@
 
 - 🎈 20 y/o.
 - 📜 Studying IT at SPTech
-- 📖 Currently learning Ruby
+- 📖 Currently learning Ruby and Python
 
 <picture>
   <source 
