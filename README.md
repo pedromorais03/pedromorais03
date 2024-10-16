@@ -7,7 +7,7 @@
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=aura"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true"
@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorais03)](https://github.com/pedromorais03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorais03&layout=compact)](https://github.com/pedromorais03/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mouras-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-morais-pereira-76b857182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedromorais03&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedromorais03&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
