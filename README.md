@@ -4,12 +4,9 @@
 - 📜 Studying IT at SPTech
 - 📖 Currently learning Ruby and Python
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=aura"
-    media="(prefers-color-scheme: dracula)"
-  />
-</picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=dracula)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorais03&layout=compact)](https://github.com/pedromorais03/github-readme-stats)
 
