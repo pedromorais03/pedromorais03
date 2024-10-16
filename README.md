@@ -33,4 +33,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-morais-pereira-76b857182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedromorais03&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
