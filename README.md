@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Welcome+Guys;I'm+Pedro+Morais)](https://git.io/typing-svg)
 
-- 🎈 20 y/o.
-- 📜 Studying IT at SPTech
-- 📖 Currently learning Ruby and Python
+- 📖 Currently learning Go and Python
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromorais03&show_icons=true&theme=dracula)
