@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromorais03&layout=compact)](https://github.com/pedromorais03/github-readme-stats)
 
+<hr>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mouras-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mouras-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
