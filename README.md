@@ -17,5 +17,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedromorais03&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
 <a href='https://github.com/phmpereira'> My student github profile </a>
-<a href='[https://github.com/phmpereira](https://www.linkedin.com/in/pedro-morais03/)'> Visit me on LinkedIn </a>
+<br>
+<a href='https://www.linkedin.com/in/pedro-morais03/'> Visit me on LinkedIn </a>
