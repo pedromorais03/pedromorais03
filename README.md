@@ -5,11 +5,10 @@
 
 <hr>
 <br> <br>
-<div> 
-  <a href = "mailto:pedromorais3012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-morais-pereira-76b857182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedromorais03&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
-<a href='https://www.linkedin.com/in/pedro-morais03/'> Check my Linkedin profile :) </a>
+
+<div> 
+  <a href = "mailto:pedromorais3012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-morais03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
