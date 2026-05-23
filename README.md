@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Pedro+Morais+%F0%9F%91%8B;Application+Security+Professional;Breaking+apps+so+devs+don't+have+to.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Pedro+Morais+%F0%9F%91%8B;Application+Security+Professional;%24+appsec+--mode%3Dalways-on;Breaking+apps+so+devs+don't+have+to.)](https://git.io/typing-svg)
 
 ---
 
@@ -10,12 +10,13 @@ Apaixonado por encontrar falhas antes que os atacantes as encontrem — do OWASP
 
 ```bash
 $ whoami
-pedro-morais  # AppSec Engineer
+pedro-morais  # AppSec Engineer | Ethical Hacker | Secure Dev Advocate
 
 $ cat focus.txt
 - Web Application Penetration Testing
 - Secure Code Review (SAST/DAST)
-- SCA / Supply Chain Security
+- Threat Modeling & Risk Assessment
+- SCA com Snyk / Supply Chain Security
 - Secure SDLC & Developer Security Training
 ```
 
